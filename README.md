@@ -1,6 +1,10 @@
-# [Mini Seller Console]()
+# [Mini Seller Console](https://mini-seller-console-ten.vercel.app/)
 
 ![stacks](https://img.shields.io/badge/React-v19.1.1-brightgreen) ![stacks](https://img.shields.io/badge/TailwindCSS-v4.1.12-brightgreen) ![stacks](https://img.shields.io/badge/TanStack%20Virtual-v3.13.12-brightgreen) ![stacks](https://img.shields.io/badge/Stack-Typescript-blue) ![GitHub](https://img.shields.io/github/license/legeannd/mini-seller-console)
+
+<p align="center">
+  <img width="800" src="public/web.gif"/>
+</p>
 
 A lightweight, client-side React application designed for sales representatives to efficiently manage leads and convert them into opportunities. Built with modern React patterns and optimized for performance with up to 100 lead records.
 
